@@ -1,16 +1,14 @@
-## Hi there 👋
+## TensorThrottleX
 
-<!--
-**TensorThrottleX/TensorThrottleX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This space is where I work through ideas by building and observing.
 
-Here are some ideas to get you started:
+Most of what lives here starts from a simple question — *what happens if I try this?* — and turns into small, focused pieces of work: demos, visualizations, and technical notes. The emphasis is on understanding behavior, not polishing products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You’ll find:
+- concise implementations of specific ideas
+- explorations around data, ML, and systems
+- outputs and observations documented alongside code
+
+Updates here are irregular and driven by curiosity rather than a schedule.  
+Each repository stands on its own and reflects a point in that process.
+
